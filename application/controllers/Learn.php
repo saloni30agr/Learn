@@ -8,6 +8,7 @@ class Learn extends CI_Controller {
 	}
 	public function index()
 	{
-		echo "hi";
+		$no=2;
+		echo $no*3;
 	}
 }
