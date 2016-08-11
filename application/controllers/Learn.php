@@ -8,8 +8,9 @@ class Learn extends CI_Controller {
 	}
 	public function index()
 	{
-		$var=2;
-		echo "hi ,this is new project";
-		echo $var;
+		$v=2;
+		echo "hi ,this is new project" ;
+		echo $v;
+		
 	}
 }
